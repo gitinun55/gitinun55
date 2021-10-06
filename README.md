@@ -3,4 +3,5 @@
         <img height="250em" src="https://spotify-github-profile.vercel.app/api/view?uid=21zedh3eytjvrpcvaltr5lfuy&cover_image=true&theme=default"/>
     </a>
     <img height="250em" src="https://github-readme-stats.vercel.app/api/?username=gitinun55&count_private=true&show_icons=true"/>
+    <iframe src="https://open.spotify.com/embed/album/33kSWLyZdzBuZlxOqPmsCh" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 </p>
